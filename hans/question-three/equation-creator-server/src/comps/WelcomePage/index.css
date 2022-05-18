@@ -1,0 +1,18 @@
+#container {
+  display: flex;
+  flex-direction: row;
+}
+#el {
+  margin: 1rem 1rem;
+}
+#group {
+  display: flex;
+  color: white;
+}
+#label {
+  color: white;
+}
+#cntrl {
+  height: 4vh;
+  width: 4vw;
+}
